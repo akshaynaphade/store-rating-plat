@@ -1,3 +1,13 @@
+## Tech Stack 🚀
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)](https://axios-http.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![JWT](https://img.shields.io/badge/JWT-F7DF1E?style=flat-square&logo=json-web-tokens&logoColor=black)](https://jwt.io/)
+[![bcrypt](https://img.shields.io/badge/bcrypt-8B0000?style=flat-square&logo=bcrypt&logoColor=white)](https://www.npmjs.com/package/bcrypt)
 # Store Rating Web Application 🚀
 
 Hello! This is my submission for the **Roxiler Systems Full-Stack Intern** coding challenge. I built this feature-rich web application from the ground up to create a platform where users can find and rate local stores.
