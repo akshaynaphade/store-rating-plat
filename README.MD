@@ -10,7 +10,7 @@ It's a complete full-stack solution, featuring a secure backend API built with *
 
 This application provides a unique, secure experience for three different types of users:
 
-###  Normal Users (The Public Experience)
+### ✅ Normal Users (The Public Experience)
 - **Secure Authentication:** Seamless user registration and login with JWT.
 - **Store Directory:** View and search a complete list of all registered stores.
 - **Detailed Ratings:** See each store's overall average rating and their own previously submitted rating.
